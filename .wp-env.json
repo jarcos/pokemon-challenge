@@ -1,0 +1,11 @@
+{
+    "core": "WordPress/WordPress#master",
+    "phpVersion": "8.2",
+    "plugins": ["./plugins/advanced-custom-fields-pro"],
+    "themes": ["./themes/understrap"],
+    "config": {
+        "WP_DEBUG": true,
+        "WP_DEBUG_LOG": true,
+        "WP_DEBUG_DISPLAY": false
+    }
+}
