@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "outDir": "js"
+    },
+    "include": [
+        "src/ts/**.ts"
+    ]
+}

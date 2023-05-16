@@ -1,0 +1,1 @@
+{"version":3,"sources":["admin-styles.css"],"names":[],"mappings":"AAAA,aACI,QAAA,KACA,cAAA","sourcesContent":["#pokemonList {\n    display: none;\n    margin-bottom: 1rem;\n}\n"]}
